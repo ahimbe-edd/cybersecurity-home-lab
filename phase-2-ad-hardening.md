@@ -58,6 +58,7 @@
 | Audit Policy Changes |
 | Audit Sensitive Privilege Use |
 
+![Audit Policies](assets/Audit-Policies-Enabled.png)
 ---
 
 ## Skills Demonstrated
