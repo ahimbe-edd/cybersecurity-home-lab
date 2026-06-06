@@ -65,7 +65,7 @@ hydra -l Administrator -P passwords.txt smb://192.168.56.30
 
 **Outcome:** Generated multiple failed authentication attempts against the Windows 11 workstation over SMB (port 445). These events were captured and analyzed in Splunk as Event ID 4625.
 
-![Attacking Windows 11](assets/Attacking-Windows11.png
+![Attacking Windows 11](assets/Attacking-Windows11.png)
 
 ---
 
