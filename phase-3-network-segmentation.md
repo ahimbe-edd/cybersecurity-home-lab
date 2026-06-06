@@ -52,6 +52,7 @@
 | Inbound | FTP — 21 | Block |
 | Inbound | Telnet — 23 | Block |
 
+![Allow Block Ports](assets/Allow-Block-Ports.png)
 ---
 
 ## Security Controls Implemented
