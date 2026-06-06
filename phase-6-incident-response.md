@@ -62,6 +62,8 @@ Additional exploitation activity was identified against Metasploitable 2 (192.16
 - Verified all systems returned to pre-incident baseline
 - Re-enabled network adapters after confirming isolation was complete
 
+![Incident Splunk Screen](assets/Splunk-Screen2.png)
+
 ---
 
 ## Skills Demonstrated
