@@ -63,17 +63,6 @@ Oracle VirtualBox · Windows Server 2022 · Windows 11 · Kali Linux · Active D
 
 ---
 
-## Resume Highlights
-
-- Built a virtualized enterprise cybersecurity lab using Oracle VirtualBox and Active Directory
-- Hardened Active Directory with GPO security policies, 8 audit categories, and account lockout controls
-- Simulated live attacks using Metasploit (vsftpd backdoor — root shell obtained) and Hydra (SMB brute-force)
-- Deployed Splunk SIEM with Universal Forwarder; detected brute-force activity via Event ID 4625
-- Performed full incident response cycle: detection → containment → remediation → recovery
-- Conducted vulnerability assessment using Nessus Essentials and validated all remediations with rescan
-
----
-
 ## Repository Structure
 
 ```
