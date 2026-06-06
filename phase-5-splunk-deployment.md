@@ -71,6 +71,8 @@ Splunk successfully detected and surfaced:
 | Failed Logins by Source IP | Visualizes which IPs are generating authentication failures |
 | Account Lockouts Over Time | Tracks lockout frequency and timing patterns |
 
+![Splunk Screen](assets/Splunk-Screen.png)
+
 ---
 
 ## Skills Demonstrated
