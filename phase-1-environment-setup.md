@@ -11,6 +11,7 @@
 - Windows 11
 - Kali Linux
 - Active Directory Domain Services (AD DS)
+  
 ![Tools Used](assets/Tools-Used.png)
 ---
 
@@ -56,6 +57,7 @@
 | Daniel Mbundi |
 | Jeremia Atukunda |
 
+![Systems Configured](assets/Systems-Configured.png)
 ---
 
 ## Skills Demonstrated
