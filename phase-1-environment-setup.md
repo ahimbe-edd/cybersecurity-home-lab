@@ -11,7 +11,7 @@
 - Windows 11
 - Kali Linux
 - Active Directory Domain Services (AD DS)
-
+![Tools Used](assets/Tools-Used.png)
 ---
 
 ## Systems Configured
